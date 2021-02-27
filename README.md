@@ -19,6 +19,8 @@
      - <a target="_blank" href="https://www.instagram.com/createdby_abh/?hl=pt-br">
          <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
        </a>
+- 👾 _Plus:_ I love fiction and fantasy books/ games and everything that is out of the ordinary! 
+ 
 <hr>
 
 <h2> <strong> Languages and Tools </strong> </h2>
