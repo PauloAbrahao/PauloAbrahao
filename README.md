@@ -13,7 +13,6 @@
                         <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
                       </a>
  
- <br>
              
 - ⚡ _Fun fact:_ In addition to studying programming I also work with <strong> Photoshop and 3D </strong>, follow my <strong> Instagram </strong> to stay  tooned:
      - <a target="_blank" href="https://www.instagram.com/createdby_abh/?hl=pt-br">
