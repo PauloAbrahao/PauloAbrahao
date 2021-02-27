@@ -6,7 +6,7 @@
 - ⚡ Quick Bio: My name is Paulo Abrahão. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python
 - 📫 How to reach me:
-<a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
+- <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
