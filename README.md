@@ -1,7 +1,6 @@
 ### Hello, visitor👋! How are you?
 
-
-**PauloAbrahao/PauloAbrahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
 - ⚡ Quick Bio: My name is Paulo Abrahão. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python
