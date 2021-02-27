@@ -2,9 +2,9 @@
 
 <hr>
 
-- ⚡ Quick Bio: My name is Paulo Abrahão and I'm from Brazil. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Python
-- 📫 How to reach me:  
+- ⚡ _Quick Bio:_ My name is Paulo Abrahão and I'm from Brazil. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
+- 🌱 _I’m currently learning:_ JavaScript, HTML, CSS and Python
+- 📫 _How to reach me:_  
 - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>  <a target="_blank" href="https://www.instagram.com/paulo_abh/?hl=pt-br">
@@ -15,7 +15,7 @@
  
  <br>
              
-- ⚡ Fun fact: In addition to studying programming I also work with Photoshop and 3D, follow my Instagram to stay  tooned:
+- ⚡ _Fun fact:_ In addition to studying programming I also work with Photoshop and 3D, follow my Instagram to stay  tooned:
      - <a target="_blank" href="https://www.instagram.com/createdby_abh/?hl=pt-br">
          <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
        </a>
