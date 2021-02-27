@@ -11,14 +11,14 @@
             <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
           </a>    <a target="_blank" href="mailto:pauloabrahao96@gmail.com">
                     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-                  </a> <br>
+                  </a>
+ 
+ <br>
              
-
-- ⚡ Fun fact: In addition to studying programming I also work with Photoshop and 3D, follow my Instagram 
-          <a target="_blank" href="https://www.instagram.com/createdby_abh/?hl=pt-br">
-            <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-          </a>
-   to stay  tooned
+- ⚡ Fun fact: In addition to studying programming I also work with Photoshop and 3D, follow my Instagram to stay  tooned:
+     <a target="_blank" href="https://www.instagram.com/createdby_abh/?hl=pt-br">
+        <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+     </a>
 <hr>
 
  <!--
