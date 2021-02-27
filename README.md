@@ -2,7 +2,7 @@
 
 <hr>
 
-- ⚡ Quick Bio: My name is Paulo Abrahão. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
+- ⚡ Quick Bio: My name is Paulo Abrahão and I'm from Brazil. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python
 - 📫 How to reach me:  
 - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
@@ -21,7 +21,7 @@
        </a>
 <hr>
 
- <!--
+<h3> Languages and Tools </h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -31,4 +31,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
--->
+
