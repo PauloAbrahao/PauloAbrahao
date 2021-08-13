@@ -13,10 +13,6 @@
                       </a>
  
              
-- ⚡ <strong>Fun fact:</strong> In addition to studying programming I also work with <strong> Photoshop and 3D </strong>, follow my <strong> Instagram </strong> to stay  tooned:
-     - <a target="_blank" href="https://www.instagram.com/createdby_abh/?hl=pt-br">
-         <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-       </a>
 - 👾 <strong>Plus:</strong> I love fiction and fantasy books/ games and everything that is out of the ordinary! 
  
 <hr>
