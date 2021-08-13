@@ -1,9 +1,8 @@
-<h1> Hello, visitor👋! How are you? </h1>
+<h1 align="center"> Hello, visitor👋! How are you? </h1>
 
 <hr>
 
-- ⚡ _Quick Bio:_ My name is Paulo Abrahão and I'm from Brazil. I've 19 years old and I'm a student of Information Systems. I'm looking to gain experience and a lot of knowledge
-- 🌱 _I’m currently learning:_ <strong> JavaScript, HTML, CSS and Python </strong>
+- ⚡ _Quick Bio:_ My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've 19 years old and I'm a student of <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
 - 📫 _How to reach me:_  
     - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
         <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
