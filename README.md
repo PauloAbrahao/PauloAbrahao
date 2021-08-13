@@ -3,7 +3,7 @@
 
 <div  align="center">
     <img width="300" height="300" src="46207-programmer.gif" />
-<div/>
+</div>
 
 <hr>
 
