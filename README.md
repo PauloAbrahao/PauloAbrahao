@@ -22,7 +22,8 @@
  
 <hr>
 
-[![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact=true&theme=Radical)](https://github.com/PauloAbrahao/)
+[![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=Radical)](https://github.com/PauloAbrahao/)
+
 
 
 <h2> <strong> Languages and Tools </strong> </h2>
