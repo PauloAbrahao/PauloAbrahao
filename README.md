@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hello, visitor👋! How are you? </h1>
 
-
-
 <hr>
 
 - ⚡ <strong>Quick Bio:</strong> My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've 19 years old and I'm a student of <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
@@ -34,6 +32,8 @@
 
 <hr>
 
-[![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=radical)](https://github.com/PauloAbrahao/)
+<div align="center">
+    [![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=radical)](https://github.com/PauloAbrahao/)
+</div>
 
 ![Snake animation](https://github.com/PauloAbrahao/PauloAbrahao/blob/output/github-contribution-grid-snake.svg)
