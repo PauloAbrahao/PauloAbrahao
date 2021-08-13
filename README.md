@@ -1,9 +1,7 @@
 
 <h1 align="center"> Hello, visitor👋! How are you? </h1>
 
-<div  align="center">
-    <img width="300" height="300" src="46207-programmer.gif" />  
-</div>
+
 
 <hr>
 
@@ -22,15 +20,12 @@
  
 <hr>
 
-[![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=radical)](https://github.com/PauloAbrahao/)
-
-
-
 <h2> <strong> Languages and Tools </strong> </h2>
 <code>
     <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -38,4 +33,8 @@
 </code>
 
 <hr>
+
+[![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=radical)](https://github.com/PauloAbrahao/)
+
+
 
