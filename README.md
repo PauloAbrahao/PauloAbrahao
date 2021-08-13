@@ -32,8 +32,6 @@
 
 <hr>
 
-<div align="center">
-    [![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=radical)](https://github.com/PauloAbrahao/)
-</div>
+[![PauloAbrahao](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAbrahao&hide=html&layout=compact&theme=radical)](https://github.com/PauloAbrahao/)
 
 ![Snake animation](https://github.com/PauloAbrahao/PauloAbrahao/blob/output/github-contribution-grid-snake.svg)
