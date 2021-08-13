@@ -5,11 +5,11 @@
 - ⚡ _Quick Bio:_ My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've 19 years old and I'm a student of <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
 - 📫 _How to reach me:_  
     - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
-        <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>  <a target="_blank" href="https://www.instagram.com/paulo_abh/?hl=pt-br">
-                <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+                <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
               </a>    <a target="_blank" href="mailto:pauloabrahao96@gmail.com">
-                        <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+                        <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
                       </a>
  
              
