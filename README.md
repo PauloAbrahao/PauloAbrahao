@@ -5,11 +5,11 @@
 
 - ⚡ <strong>Quick Bio:</strong> My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've 19 years old and I'm a student of <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
 - 📫 _How to reach me:_  
-    - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
+    - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/" target="_blank">
         <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>  <a target="_blank" href="https://www.instagram.com/paulo_abh/?hl=pt-br">
+      </a>  <a target="_blank" href="https://www.instagram.com/paulo_abh/?hl=pt-br" target="_blank">
                 <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-              </a>    <a target="_blank" href="mailto:dev.pauloabh@gmail.com">
+              </a>    <a target="_blank" href="mailto:dev.pauloabh@gmail.com" target="_blank">
                         <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
                       </a>
  
