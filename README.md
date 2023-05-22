@@ -16,8 +16,6 @@
              
 - 👾 <strong>Plus:</strong> I love fiction and fantasy books/ games and everything that is out of the ordinary! 
  
-<hr>
-
 <h2> <strong> Languages and Tools </strong> </h2>
 <div align="left">
     <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
