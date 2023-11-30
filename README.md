@@ -19,7 +19,7 @@
 <h2> <strong> Languages and Tools </strong> </h2>
 <div align="left">   
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,jest,html,css,py,selenium,eclipse,wordpress,git,github,figma,aws,azure,firebase,netlify,gcp,mysql,graphql,gatsby,ps,blender,unreal,tailwind,bootstrap,materialui,sass" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,gatsby,graphql,mongodb,nodejs,express,jest,html,css,py,selenium,eclipse,wordpress,git,github,figma,aws,azure,firebase,netlify,ps,blender,unreal,tailwind,bootstrap,materialui,sass" />
     </a>
 </div>
 
