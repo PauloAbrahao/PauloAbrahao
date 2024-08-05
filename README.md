@@ -27,9 +27,9 @@
 
 ## 🏆 Badges
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/61464eca-75b1-4956-bc79-a6f040025e36/public_url")
-[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/100x100/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)](https://www.credly.com/badges/8a9d9bfd-3db9-4072-85b9-b9e669bc4c32/public_url")
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)](https://www.credly.com/badges/8a9d9bfd-3db9-4072-85b9-b9e669bc4c32/public_url")
 [![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png)](https://www.credly.com/badges/b222536f-4c49-40ad-8081-18dcb1b8f736/public_url")
-[![AWS Partner: Sales Accreditation (Business)](https://images.credly.com/size/100x100/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png)](https://www.credly.com/badges/7ea54717-d615-43b6-b6a4-ae38098b759e/public_url")
+[![AWS Partner: Sales Accreditation (Business)](https://images.credly.com/size/110x110/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png)](https://www.credly.com/badges/7ea54717-d615-43b6-b6a4-ae38098b759e/public_url")
 
 
 
