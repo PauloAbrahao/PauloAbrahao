@@ -3,7 +3,7 @@
 
 <hr>
 
-- ⚡ <strong>Quick Bio:</strong> My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've 22 years old and I've graduated in <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
+- ⚡ <strong>Quick Bio:</strong> My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've graduated in <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
 - 📫 _How to reach me:_  
     - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
         <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -13,8 +13,7 @@
                         <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
                       </a>
  
-             
-- 👾 <strong>Plus:</strong> I love fiction and fantasy books/ games and everything that is out of the ordinary! 
+  
  
 <h2> <strong> Languages and Tools </strong> </h2>
 <div align="left">   
