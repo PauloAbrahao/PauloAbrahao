@@ -7,11 +7,10 @@
 - 📫 _How to reach me:_  
     - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
         <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>  <a target="_blank" href="https://www.instagram.com/paulo_abh/?hl=pt-br">
-                <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-              </a>    <a target="_blank" href="mailto:dev.pauloabh@gmail.com">
-                        <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-                      </a>
+      </a> 
+      <a target="_blank" href="mailto:dev.pauloabh@gmail.com">
+        <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
  
   
  
