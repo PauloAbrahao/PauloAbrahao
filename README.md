@@ -17,7 +17,7 @@
 <h2> <strong> Languages and Tools </strong> </h2>
 <div align="left">   
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,graphql,mongodb,nodejs,jest,py,wordpress,figma,aws,firebase,netlify,tailwind" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,graphql,nodejs,jest,figma,aws,firebase,tailwind" />
     </a>
 </div>
 
