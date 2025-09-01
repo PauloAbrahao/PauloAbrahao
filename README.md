@@ -3,7 +3,12 @@
 
 <hr>
 
-- ⚡ <strong>Quick Bio:</strong> My name is <strong>Paulo Abrahão</strong> and I'm from <strong>Brazil</strong>. I've graduated in <strong>Information Systems</strong>. I'm looking to gain experience and a lot of knowledge
+- ⚡ <strong>Quick Bio:</strong> Hi, I’m Paulo - a Software Engineer with 3+ years of experience building modern, scalable, and user-focused applications.
+- 💻 Skilled in JavaScript, TypeScript 
+- ⚡ Frontend: React, React Native, Vue, Flutter
+- ⚙️ Backend: Node.js, Fastify, NestJS, Firebase
+
+I’m passionate about clean code, software engineering best practices, and creating reliable, maintainable, and meaningful solutions.
 - 📫 _How to reach me:_  
     - <a target="_blank" href="https://www.linkedin.com/in/paulo-abrah%C3%A3o-841445206/">
         <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
