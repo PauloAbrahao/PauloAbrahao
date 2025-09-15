@@ -22,7 +22,7 @@ I’m passionate about clean code, software engineering best practices, and crea
 <h2> <strong> Languages and Tools </strong> </h2>
 <div align="left">   
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,graphql,nodejs,vitest,jest,figma,aws,firebase,tailwind" />
+        <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,flutter,graphql,nodejs,vitest,jest,figma,aws,firebase,tailwind" />
     </a>
 </div>
 
