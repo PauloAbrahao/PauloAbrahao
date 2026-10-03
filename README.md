@@ -3,10 +3,10 @@
 
 <hr>
 
-- ⚡ <strong>Quick Bio:</strong> Hi, I’m Paulo - a Software Engineer with 3+ years of experience building modern, scalable, and user-focused applications.
+- ⚡ <strong>Quick Bio:</strong> Hi, I’m Paulo - a Software Engineer with 4+ years of experience building modern, scalable, and user-focused applications.
 - 💻 Skilled in JavaScript, TypeScript 
 - ⚡ Frontend: React, React Native, Vue, Flutter
-- ⚙️ Backend: Node.js, Fastify, NestJS, Firebase
+- ⚙️ Backend: Node.js, .NET, Fastify, NestJS, Firebase
 
 I’m passionate about clean code, software engineering best practices, and creating reliable, maintainable, and meaningful solutions.
 - 📫 _How to reach me:_  
